@@ -1,4 +1,3 @@
-![WOD Backend FastAPI Banner](banner.png)
 <p align="center">
   <img src="banner.png" alt="WOD Backend FastAPI Banner" />
 </p>
